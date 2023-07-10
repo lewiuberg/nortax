@@ -1,0 +1,19 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "testExplorer.useNativeTesting": true,
+  "cSpell.words": [
+    "valgtTabell",
+    "valgtInntektType",
+    "valgtPeriode",
+    "valgtLonn",
+    "visHeleTabellen",
+    "valgtAar",
+    "hentHeleTabellen",
+    "Lonn",
+    "Pensjon",
+    "Periode"
+    "Dager",
+    "Maaned",
+    "alleTrekk",
+  ]
+}
