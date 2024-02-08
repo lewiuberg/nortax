@@ -31,6 +31,7 @@ A Python client for the tax table portion of the Norwegian tax authority's API.
     - [Get the tax deduction](#get-the-tax-deduction)
     - [Get the net income](#get-the-net-income)
     - [Get the whole table](#get-the-whole-table)
+- [Raycast Script Commands](#raycast-script-commands)
 
 ## Usage
 
@@ -245,3 +246,7 @@ Return whole table: {
     "6400": 203,
     "6500": ...
 ```
+
+## Raycast Script Commands
+
+This package is also available as a Raycast script command. Just add the `raycast_scripts` folder to your Raycast script commands folder and you are good to go.
