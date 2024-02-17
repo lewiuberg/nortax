@@ -217,7 +217,7 @@ class Accountant:
         self.taxable_income = self.income + self.taxable_benefits
         tax = self.get_tax_api()
         self.income_tax = tax.deduction
-        self.net_income = tax.net_income
+        self.net_income = round(self.income - self.income_tax)
 
         self.commission_tax = round(
             self.commission * self.tax_percentage / 100
